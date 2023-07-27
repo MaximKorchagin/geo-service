@@ -31,5 +31,4 @@ public class Location {
 
     public int getBuiling() {
         return builing;
-    }
-}
+    }}
